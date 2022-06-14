@@ -8,6 +8,9 @@ Using data via the USGS (US Geological Survey) API services, earthquake data fro
 
 See file directory, Earthquake_Challenge here, https://github.com/Ninax3/Mapping_Earthquakes/tree/main/Earthquake_Challenge
 
+Challenge_logic.js 
+https://raw.githubusercontent.com/Ninax3/Mapping_Earthquakes/main/Earthquake_Challenge/static/js/challenge_logic.js
+
 ## Resources 
 
 Software/Code - JavaScript, HTML/CSS, Visual Studio Code 1.65.2, Leaflet 1.8.0, d3.js 7.4.4, Mapbox 
