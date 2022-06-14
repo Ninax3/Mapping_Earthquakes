@@ -20,5 +20,5 @@ See Street Map here, https://github.com/Ninax3/Mapping_Earthquakes/blob/main/Str
 
 See Satellite Map here, https://github.com/Ninax3/Mapping_Earthquakes/blob/main/Satellite%20Map.png
 
-See Dark Map here, 
+See Dark Map here, https://github.com/Ninax3/Mapping_Earthquakes/blob/main/Dark%20Map.png
 
