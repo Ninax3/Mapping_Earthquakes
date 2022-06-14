@@ -8,8 +8,7 @@ Using data via the USGS (US Geological Survey) API services, earthquake data fro
 
 See file directory, Earthquake_Challenge here, https://github.com/Ninax3/Mapping_Earthquakes/tree/main/Earthquake_Challenge
 
-Challenge_logic.js 
-https://raw.githubusercontent.com/Ninax3/Mapping_Earthquakes/main/Earthquake_Challenge/static/js/challenge_logic.js
+See Challenge_logic.js here, https://raw.githubusercontent.com/Ninax3/Mapping_Earthquakes/main/Earthquake_Challenge/static/js/challenge_logic.js
 
 ## Resources 
 
@@ -19,9 +18,12 @@ Data Source - Earthquakes GeoJSON provided by USGS API services.
 
 ## Maps
 
-See Street Map here, https://github.com/Ninax3/Mapping_Earthquakes/blob/main/Street%20Map.png
+### Street Map  
+![Mapping_Earthquakes "Street Map"](https://github.com/Ninax3/Mapping_Earthquakes/blob/main/Street%20Map.png)
 
-See Satellite Map here, https://github.com/Ninax3/Mapping_Earthquakes/blob/main/Satellite%20Map.png
+### Satellite Map 
+![Mapping_Earthquakes "Satellite Map"](https://github.com/Ninax3/Mapping_Earthquakes/blob/main/Satellite%20Map.png)
 
-See Dark Map here, https://github.com/Ninax3/Mapping_Earthquakes/blob/main/Dark%20Map.png
+### Dark Map 
+![Mapping_Earthquakes "Dark Map"](https://github.com/Ninax3/Mapping_Earthquakes/blob/main/Dark%20Map.png)
 
