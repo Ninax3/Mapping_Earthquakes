@@ -16,5 +16,9 @@ Data Source - Earthquakes GeoJSON provided by USGS API services.
 
 ## Maps
 
+See Street Map here, https://github.com/Ninax3/Mapping_Earthquakes/blob/main/Street%20Map.png
 
+See Satellite Map here, 
+
+See Dark Map here, 
 
